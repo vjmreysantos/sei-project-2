@@ -1,0 +1,45 @@
+// .logo-container {
+//   display: flex;
+//   justify-content: center;
+//   background-image: url(../components/assets/delish.png);
+//   background-size: 20px;
+// }
+
+@import "~bulma/bulma.sass";
+
+.is-white {
+  color: white;
+}
+
+.instuctions {
+  background-color: rgba(0, 0, 0, 0.705);
+  border: rgba(255, 255, 255, 0.562) solid 1px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  padding: 10px;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-image: url(../components/assets/burger.jpg);
+  height: 800px;
+  background-size: cover;
+}
+
+.hero {
+  background-color: rgba(0, 0, 0, 0.575);
+  border: rgb(247, 55, 55) solid 1px;
+  border-radius: 5px;
+  padding: 10px;
+}
