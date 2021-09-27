@@ -8,7 +8,3 @@ GET www.themealdb.com/api/json/v1/1/filter.php?a=Italian
 
 # GET A SINGLE RANDOM MEAL
 GET https://www.themealdb.com/api/json/v1/1/random.php
-
-###
-
-GET https://restcountries.eu/rest/v2/all
