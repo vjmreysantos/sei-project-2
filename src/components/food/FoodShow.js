@@ -21,11 +21,9 @@ function FoodShow() {
     getData()
   }, [foodId])
 
-  console.log(food)
-  console.log(foodId)
 
   return (
- 
+
     <body className="background">
       <section className="section">
         <div className="container">

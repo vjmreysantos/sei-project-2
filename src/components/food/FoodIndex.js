@@ -30,7 +30,7 @@ function FoodIndex() {
           {isLoading && <h1>Fetching your dinner...</h1>}
           <div className="hero-body">
             <div>
-              <FoodCard key={foods.idMeal} food={foods} />           
+              <FoodCard key={foods.idMeal} foods={foods} />           
             </div>
           </div>
         </div>
