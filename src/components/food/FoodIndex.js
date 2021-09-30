@@ -1,9 +1,11 @@
 import React from 'react'
+import { useParams } from 'react-router'
 import { getRandomMeal } from '../lib/api'
 
 import FoodCard from './FoodCard'
 
 function FoodIndex() {
+  const { foodsId } = useParams()
   const [foods, setFoods] = React.useState([])
   const [isError, setIsError] = React.useState(false)
   const isLoading = !isError && !foods
@@ -11,7 +13,7 @@ function FoodIndex() {
   React.useEffect(() => {
     const getData = async () => {
       try {
-        const response = await getRandomMeal()
+        const response = await getRandomMeal(foodsId)
         setFoods(response.data.meals[0])
       } catch (err) {
         console.log(err)
@@ -19,7 +21,7 @@ function FoodIndex() {
       }
     }
     getData()
-  }, [])
+  }, [foodsId])
     
   // console.log(foods)
   return ( 

@@ -2,7 +2,7 @@ GET https://worldfood.guide/api/cuisines/?format=json
 
 ###
 
-GET www.themealdb.com/api/json/v1/1/filter.php?a=Italian
+GET https://www.themealdb.com/api/json/v1/1/filter.php?a=Italian
 
 ###
 
