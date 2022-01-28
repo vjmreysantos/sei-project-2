@@ -54,10 +54,15 @@ The home page has a button that when clicked will generate a random meal. You ca
 Visuals
 
 <img width="501" alt="Screenshot 2022-01-28 at 11 38 18" src="https://user-images.githubusercontent.com/86128330/151540812-00c4320f-5582-4e13-8c3d-a808b9dcb9a5.png">
+
 ![project2-wireframe](https://user-images.githubusercontent.com/86128330/151541048-85d6eed8-6110-4d02-ab5b-cec15036afe1.png)
+
 <img width="1403" alt="Screenshot 2021-09-20 at 23 02 29" src="https://user-images.githubusercontent.com/86128330/151540967-06cc860f-607e-46a2-8b6f-bfc28f6990a1.png">
+
 <img width="1385" alt="Screenshot 2021-09-20 at 23 02 49" src="https://user-images.githubusercontent.com/86128330/151540980-6d2b7b03-e8a6-450e-a44b-17bc88ce524d.png">
+
 <img width="1389" alt="Screenshot 2021-09-20 at 23 03 01" src="https://user-images.githubusercontent.com/86128330/151540987-df5d7105-a9fa-4d9e-a24c-ebc2a9abb857.png">
+
 <img width="707" alt="Screenshot 2021-09-20 at 23 04 08" src="https://user-images.githubusercontent.com/86128330/151540993-cca929ac-9c1a-4ffa-8113-e8b90429ddd1.png">
 
 
